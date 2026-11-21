@@ -1,0 +1,18 @@
+# 操作系统与编辑器临时文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.bak
+*~
+
+# 嘉立创 EDA 自动备份 / 缓存
+*.epro2.bak
+*.epro.bak
+~$*
+
+# 导出与制造文件（按需保留）
+/export/
+/gerber/
+*.zip
